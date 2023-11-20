@@ -21,7 +21,7 @@ if a == "who is my dream girl":
         print("She is missing you")
         e = askYesNoQuestion("Mini ke baare me aur kya janna hai ji  : ")
         if d == "what she like the most":
-          print("You ask her")
+          print("You ask her, don't worry")
 else:
   print("Thank You")
   
